@@ -1,0 +1,31 @@
+/**
+ * style sheet for demo page
+ * @date: 2022/7/15
+ * @author: liugl@inspur.com
+ */
+.demo-page {
+    padding: 10px;
+}
+.page-title {
+    line-height: 40px;
+    border-bottom: 1px solid #eee;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.demo-page > .desc {
+    padding: 10px 0;
+    line-height: 23px;
+    color: #666;
+}
+.demo-page > .code {
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.demo-page > .code > .title {
+    line-height: 40px;
+    font-size: 14px;
+}
